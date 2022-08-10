@@ -1,5 +1,7 @@
 # lc_blogs
 
+to run this project locally, use node 14.16.1
+
 ## Project setup
 ```
 npm install
